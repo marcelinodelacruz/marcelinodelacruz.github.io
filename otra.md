@@ -12,7 +12,5 @@ description: "Web page of MCR"
 **I'm quite hosted with GitHub Pages**.
 
 *Work in progress*
-
-[Here](https://github.com/marcelinodelacruz/marcelinodelacruz.github.io/blob/master/iotra.md) is another page.
  
  
