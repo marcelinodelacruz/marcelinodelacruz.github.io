@@ -13,6 +13,6 @@ description: "Web page of MCR"
 
 *Work in progress*
 
-[Here](https://github.com/marcelinodelacruz/marcelinodelacruz.github.io/blob/master/iotra.md) is another page.
+[Here](https://github.com/marcelinodelacruz/marcelinodelacruz.github.io/blob/master/otra.md) is another page.
  
  
